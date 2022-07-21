@@ -1,1 +1,2 @@
-git clone https://github.com/asacarny/hospital-cost-reports.git
+gh repo clone asacarny/hospital-cost-reports
+
